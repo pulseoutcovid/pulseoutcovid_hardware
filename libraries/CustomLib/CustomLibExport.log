@@ -1,0 +1,11 @@
+P-CAD Schematic ASCII File Export Log :
+   Current document: C:\Users\Public\Documents\Altium\CustomLib\CustomLibExport.lia
+   BeginLog
+      Warning :     Symbol name [3025-2], mode [Normal], part [1] changed to [3025-2_1_N]
+      Warning :     Rectangle [-200mil : -400mil]-[200mil : 400mil] exported as lines.
+      Information : Exporting symbol definition(s) for component [3025-2]
+      Information : Exporting component definition for component [3025-2]
+   EndLog
+   Imported succesfully!
+ 
+EndLog
