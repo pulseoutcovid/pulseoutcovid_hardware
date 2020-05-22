@@ -241,6 +241,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDYBPFTT
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PulseOx_0\Design Rule Check - PulseOx_0_PCB.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=libraries\*.*
 IncludeSubFolders=1
