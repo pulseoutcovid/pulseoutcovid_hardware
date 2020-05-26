@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PulseOx_0_PCB.PcbDoc   5/26/2020  2:32:26 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PulseOx_0_PCB-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             44        PTH        0.00inch (0.00mm)
+T2      35mil (0.889mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T3      39mil (0.991mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T4      40mil (1.016mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T5      73mil (1.854mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T6      96mil (2.438mm)                                           Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              71
+
+Total Processing Time (hh:mm:ss) : 00:00:00
